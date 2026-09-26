@@ -1,0 +1,3 @@
+-r requirements.txt
+pytest>=8
+scikit-learn>=1.4   # only used to cross-check the Ledoit–Wolf implementation
